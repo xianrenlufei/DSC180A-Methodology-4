@@ -1,4 +1,2 @@
 # DSC180A-Methodology-4
-
-Zhengyun Nie, Wanting Mao
-znie@ucsd.edu, wamao@ucsd.edu
+Zhengyun Nie and Wanting Mao
