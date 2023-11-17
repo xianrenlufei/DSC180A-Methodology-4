@@ -1,3 +1,3 @@
 # DSC180A-Methodology-4
 
-Zhengyun Nie, Wanting Mao
+Zhengyun Nie, wanting mao
